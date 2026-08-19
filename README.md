@@ -16,8 +16,6 @@
 
 - 🌱 I'm currently strengthening **Java • SQL • Data Structures**
 
-- 💬 Ask me about **Java • SQL • HTML • CSS • MCA projects**
-
 - 🎯 I'm looking for **Java Developer internship opportunities**
 
 - 💡 I enjoy turning what I learn into practical projects
