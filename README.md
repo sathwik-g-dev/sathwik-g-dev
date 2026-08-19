@@ -16,8 +16,6 @@
 
 - 🌱 I'm currently strengthening **Java • SQL • Data Structures**
 
-- 🔧 I'm currently learning **Spring Boot** through hands-on project development
-
 - 💬 Ask me about **Java • SQL • HTML • CSS • MCA projects**
 
 - 🎯 I'm looking for **Java Developer internship opportunities**
@@ -90,37 +88,7 @@
 
 ---
 
-### 🌱 Currently Learning
 
-<p align="left">
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sathwik-g-dev&show_icons=true&include_all_commits=true&count_private=true" alt="Sathwik's GitHub Stats"/>
-
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sathwik-g-dev" alt="GitHub Contribution Streak"/>
-
-</p>
-
----
 
 ### 📈 Contribution Activity
 
@@ -143,7 +111,7 @@
 
 ---
 
-### 🤝 Connect with me
+<h3 align="left">🤝 Connect with me:</h3>
 
 <p align="left">
 
@@ -152,7 +120,7 @@
 </a>
 
 <a href="mailto:sathwikulal2004@gmail.com">
-<img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40"/>
+📧
 </a>
 
 </p>
