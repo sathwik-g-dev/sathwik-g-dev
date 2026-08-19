@@ -1,133 +1,134 @@
 <h1 align="center">Hi 👋, I'm Sathwik G</h1>
+
 <h3 align="center">MCA Student | Java Developer | Open to Internships</h3>
 
 <p align="center">
-  I'm an MCA student focused on Java development, SQL, and building practical software projects.
+  Focused on Java development, SQL, and building practical software projects.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="left">👨‍💻 About Me:</h3>
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **BMS College of Engineering, Bengaluru**
-- 💻 Focused on **Java Development**
-- 🌱 Currently strengthening **Java • SQL • Data Structures**
-- 🔧 Currently learning **Spring Boot** through hands-on project development
-- 🎯 Looking for **Java Developer internship opportunities**
-- 💡 Interested in building practical applications and improving my software development skills
+- 🎓 I'm currently pursuing **Master of Computer Applications (MCA)** at **BMS College of Engineering, Bengaluru**
+
+- 💻 My primary career focus is **Java Development**
+
+- 🌱 I'm currently strengthening **Java • SQL • Data Structures**
+
+- 🔧 I'm currently learning **Spring Boot** through hands-on project development
+
+- 🎯 I'm looking for **Java Developer internship opportunities**
+
+- 💡 I enjoy turning what I learn into practical projects
+
+- 📫 How to reach me **sathwikulal2004@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-### 📚 Academic / Familiar Technologies
+<h3 align="left">📚 Academic / Familiar Technologies:</h3>
 
 <p align="left">
 
-<!-- Add only technologies you have genuinely studied -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
 
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 CodeGuard AI
-
-**Java • Spring Boot • SQL**
-
-A practical software project that I am currently studying, testing, and improving to understand its architecture, backend, database, APIs, and AI functionality.
-
-🔗 **Repository:** [CodeGuard AI](YOUR_REPOSITORY_LINK)
-
----
-
-#### 🔹 Java + SQL Project
-
-**Java • JDBC • MySQL**
-
-A practical Java application focused on object-oriented programming, database connectivity, CRUD operations, and SQL.
-
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
-
----
-
-#### 🔹 Music Curator
-
-**HTML • CSS**
-
-A web-based music curation project created to explore web development and user interaction.
-
-🔗 **Repository:** [Music Curator](https://github.com/sathwikulal2004-stack/music-curator)
-
----
-
-### 📊 GitHub Analytics
+<h3 align="left">🌱 Currently Learning:</h3>
 
 <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true" alt="Sathwik's GitHub Stats"/>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
 
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+<h3 align="left">📊 GitHub Analytics:</h3>
 
 <p align="left">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sathwikulal2004-stack&show_icons=true&include_all_commits=true&count_private=true" alt="Sathwik's GitHub Stats"/>
 
 </p>
 
 ---
 
-### 📈 Contribution Activity
+<h3 align="left">🔥 Contribution Streak:</h3>
 
 <p align="left">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=sathwikulal2004-stack" alt="GitHub Contribution Streak"/>
 
 </p>
 
 ---
 
-### 📌 GitHub Highlights
+<h3 align="left">📈 Contribution Activity:</h3>
 
-- 📁 **Repositories:** Automatically displayed on my GitHub profile
-- ⭐ **Stars:** Automatically updated through GitHub statistics
-- 🔥 **Contribution Streak:** Updated automatically
-- 📈 **Contribution Activity:** Updated automatically
+<p align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikulal2004-stack&hide_border=true" alt="GitHub Activity Graph"/>
+
+</p>
 
 ---
 
-### 🎓 Education
+<h3 align="left">🎓 Education:</h3>
 
 - **Master of Computer Applications (MCA)**  
   BMS College of Engineering, Bengaluru  
@@ -138,7 +139,7 @@ A web-based music curation project created to explore web development and user i
 
 ---
 
-### 📫 Connect With Me
+<h3 align="left">🤝 Connect with me:</h3>
 
 <p align="left">
 
@@ -148,10 +149,4 @@ A web-based music curation project created to explore web development and user i
 
 </p>
 
-📧 **Email:** sathwikulal2004@gmail.com
-
----
-
-### ⚡ Fun Fact
-
-I enjoy turning what I learn into practical projects.
+📧 <strong>Email:</strong> sathwikulal2004@gmail.com
